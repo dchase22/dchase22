@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋, I'm Damon Chase
 
-<!--
-**dchase22/dchase22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a software and tech enthusiast with a passion for building **projects that combine real-world impact and learning opportunities**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+
+- 💻 Experienced in **Python, C#, Java, and SQL**.
+- 🤖 Interested in **AI, robotics, fintech, and emerging technologies**.
+- 🎓 Student at **WPI**, with a focus on **AI and software engineering**.
+- 🌱 Always learning new frameworks, languages, and tools to improve my skill set.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/damonchase/) for collaborations or questions.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, C#, SQL, Java, C, JavaScript  
+- **Web Development:** HTML, CSS, React, Flask, FastAPI  
+- **Data & AI:** Pandas, NumPy, Plotly  
+- **Dev Tools:** Git, GitHub, VS Code, PyCharm, Docker, Postman
+- **Other:** Agile workflows, Raspberry Pi
+
+---
+
+## 🌟 Projects
+
+- **Typing Leaderboard MCP Server:** Use your favorite AI client and call tools that interact with an API to manipulate a Typing Speed Leaderboard. 
+- **Stock Price Plotter:** Interactive Plotly charts for any stock ticker using `yfinance`.  
+- **Movie Recommendation Program:** Python program that recommends top-rated movies by genre using IMDb data.  
+- **Raspberry Pi Object Detection:** Project to monitor a front door and send alerts when objects are detected using `yolo` object detection model.  
+
+*(Check out my [repositories](https://github.com/dchase22?tab=repositories) for full project details.)*
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/damonchase/) 
+
+Thanks for stopping by, and feel free to explore my projects! 🚀
