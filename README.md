@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a software and tech enthusiast with a passion for buil
 ## 🌟 Projects
 
 - **Typing Leaderboard MCP Server:** Use your favorite AI client and call tools that interact with an API to manipulate a Typing Speed Leaderboard. 
-- **Stock Price Plotter:** Interactive Plotly charts for any stock ticker using `yfinance`.  
+- **Stock Price Prediction Tool:** Predict the next day's closing price for any stock using XGBoost and `yfinance`.  
 - **Movie Recommendation Program:** Python program that recommends top-rated movies by genre using IMDb data.  
 - **Raspberry Pi Object Detection:** Project to monitor a front door and send alerts when objects are detected using `yolo` object detection model.  
 
