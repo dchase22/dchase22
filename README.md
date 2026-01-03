@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a software and tech enthusiast with a passion for buil
 
 ## 🔭 About Me
 
-- 💻 Experienced in **Python, C#, Java, and SQL**.
+- 💻 Experienced in **Python, C#, Java, Javascript, and SQL**.
 - 🤖 Interested in **AI, robotics, fintech, and emerging technologies**.
 - 🎓 Student at **WPI**, with a focus on **AI and software engineering**.
 - 🌱 Always learning new frameworks, languages, and tools to improve my skill set.
