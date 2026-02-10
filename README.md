@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a software and tech enthusiast with a passion for buil
 
 - **Languages:** Python, C#, SQL, Java, C, JavaScript  
 - **Web Development:** HTML, CSS, React, Flask, FastAPI  
-- **Data & AI:** Pandas, NumPy, Plotly  
+- **Data & AI:** Pandas, NumPy, scikit-learn  
 - **Dev Tools:** Git, GitHub, VS Code, PyCharm, Docker, Postman
 - **Other:** Agile workflows, Raspberry Pi
 
