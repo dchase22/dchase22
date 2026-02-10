@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a software and tech enthusiast with a passion for buil
 - **Movie Recommendation Program:** Python program that recommends top-rated movies by genre using IMDb data.  
 - **Raspberry Pi Object Detection:** Project to monitor a front door and send alerts when objects are detected using `yolo` object detection model.  
 
-*(Check out my [repositories](https://github.com/dchase22?tab=repositories) for full project details.)*
+*(Check out my [repositories](https://github.com/damonchase?tab=repositories) for full project details.)*
 
 ---
 
