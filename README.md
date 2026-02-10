@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Damon Chase
+# Hi 👋, I'm Damon Chase
 
 Welcome to my GitHub! I'm a software and tech enthusiast with a passion for building **projects that combine real-world impact and learning opportunities**.  
 
