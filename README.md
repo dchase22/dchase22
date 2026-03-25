@@ -1,4 +1,4 @@
-# Hi I'm Damon 👋
+# Hi, I'm Damon 👋
 
 Welcome to my GitHub! I'm a software and tech enthusiast with a passion for building **projects that combine real-world impact and learning opportunities**.  
 
