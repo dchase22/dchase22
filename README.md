@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a software and tech enthusiast with a passion for buil
 ## 🔭 About Me
 
 - 💻 Experienced in **Python, C#, Java, Javascript, and SQL**.
-- 🤖 Interested in **AI, robotics, fintech, and emerging technologies**.
-- 🎓 Student at **WPI**, with a focus on **AI and software engineering**.
+- 🤖 Interested in **AI, ML, robotics, fintech, and emerging technologies**.
+- 🎓 Student at **WPI**, with a focus on **AI, ML, and software engineering**.
 - 🌱 Always learning new frameworks, languages, and tools to improve my skill set.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/damonchase/) for collaborations or questions.
 
